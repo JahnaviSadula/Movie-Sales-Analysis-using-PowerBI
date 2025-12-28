@@ -1,0 +1,1 @@
+This project focuses on analyzing movie sales data using Power BI to gain insights into revenue trends, popular genres, top-performing movies, and audience preferences. The dashboard helps stakeholders make data-driven decisions in the entertainment industry.
